@@ -1,0 +1,452 @@
+fileFormatVersion: 2
+guid: 1bf7a07f1fcf1eb41b79c24be7b1c16d
+timeCreated: 1511021194
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: personaje-de-edwin-con-mascara-enemigo_0
+    21300002: personaje-de-edwin-con-mascara-enemigo_1
+    21300004: personaje-de-edwin-con-mascara-enemigo_2
+    21300006: personaje-de-edwin-con-mascara-enemigo_3
+    21300008: personaje-de-edwin-con-mascara-enemigo_4
+    21300010: personaje-de-edwin-con-mascara-enemigo_5
+    21300012: personaje-de-edwin-con-mascara-enemigo_6
+    21300014: personaje-de-edwin-con-mascara-enemigo_7
+    21300016: personaje-de-edwin-con-mascara-enemigo_8
+    21300018: personaje-de-edwin-con-mascara-enemigo_9
+    21300020: personaje-de-edwin-con-mascara-enemigo_10
+    21300022: personaje-de-edwin-con-mascara-enemigo_11
+    21300024: personaje-de-edwin-con-mascara-enemigo_12
+    21300026: personaje-de-edwin-con-mascara-enemigo_13
+    21300028: personaje-de-edwin-con-mascara-enemigo_14
+    21300030: personaje-de-edwin-con-mascara-enemigo_15
+    21300032: personaje-de-edwin-con-mascara-enemigo_16
+    21300034: personaje-de-edwin-con-mascara-enemigo_17
+    21300036: personaje-de-edwin-con-mascara-enemigo_18
+    21300038: personaje-de-edwin-con-mascara-enemigo_19
+    21300040: personaje-de-edwin-con-mascara-enemigo_20
+    21300042: personaje-de-edwin-con-mascara-enemigo_21
+    21300044: personaje-de-edwin-con-mascara-enemigo_22
+    21300046: personaje-de-edwin-con-mascara-enemigo_23
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Samsung TV
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: personaje-de-edwin-con-mascara-enemigo_0
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 2092
+        width: 335
+        height: 546
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personaje-de-edwin-con-mascara-enemigo_1
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 2088
+        width: 336
+        height: 550
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personaje-de-edwin-con-mascara-enemigo_2
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 2087
+        width: 349
+        height: 551
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personaje-de-edwin-con-mascara-enemigo_3
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 2093
+        width: 358
+        height: 545
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personaje-de-edwin-con-mascara-enemigo_4
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 2082
+        width: 362
+        height: 556
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personaje-de-edwin-con-mascara-enemigo_5
+      rect:
+        serializedVersion: 2
+        x: 2356
+        y: 2080
+        width: 342
+        height: 558
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personaje-de-edwin-con-mascara-enemigo_6
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1445
+        width: 419
+        height: 561
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personaje-de-edwin-con-mascara-enemigo_7
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1445
+        width: 505
+        height: 561
+      alignment: 9
+      pivot: {x: 0.45, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personaje-de-edwin-con-mascara-enemigo_8
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 1445
+        width: 559
+        height: 561
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personaje-de-edwin-con-mascara-enemigo_9
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 1445
+        width: 500
+        height: 622
+      alignment: 9
+      pivot: {x: 0.55, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personaje-de-edwin-con-mascara-enemigo_10
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 1445
+        width: 418
+        height: 561
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personaje-de-edwin-con-mascara-enemigo_11
+      rect:
+        serializedVersion: 2
+        x: 2813
+        y: 1445
+        width: 339
+        height: 558
+      alignment: 9
+      pivot: {x: 0.39, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personaje-de-edwin-con-mascara-enemigo_12
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 822
+        width: 336
+        height: 547
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personaje-de-edwin-con-mascara-enemigo_13
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 819
+        width: 335
+        height: 550
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personaje-de-edwin-con-mascara-enemigo_14
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 817
+        width: 350
+        height: 552
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personaje-de-edwin-con-mascara-enemigo_15
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 824
+        width: 358
+        height: 545
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personaje-de-edwin-con-mascara-enemigo_16
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 812
+        width: 360
+        height: 557
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personaje-de-edwin-con-mascara-enemigo_17
+      rect:
+        serializedVersion: 2
+        x: 2551
+        y: 811
+        width: 343
+        height: 558
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personaje-de-edwin-con-mascara-enemigo_18
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 157
+        width: 419
+        height: 562
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personaje-de-edwin-con-mascara-enemigo_19
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 157
+        width: 505
+        height: 562
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personaje-de-edwin-con-mascara-enemigo_20
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 157
+        width: 560
+        height: 562
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personaje-de-edwin-con-mascara-enemigo_21
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 157
+        width: 502
+        height: 622
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personaje-de-edwin-con-mascara-enemigo_22
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 157
+        width: 418
+        height: 562
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personaje-de-edwin-con-mascara-enemigo_23
+      rect:
+        serializedVersion: 2
+        x: 2950
+        y: 157
+        width: 337
+        height: 558
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

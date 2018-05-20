@@ -1,0 +1,580 @@
+fileFormatVersion: 2
+guid: 047a2d07ec211e044a4c33e10ba96bb3
+timeCreated: 1511029539
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_0
+    21300002: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_1
+    21300004: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_2
+    21300006: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_3
+    21300008: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_4
+    21300010: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_5
+    21300012: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_6
+    21300014: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_7
+    21300016: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_8
+    21300018: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_9
+    21300020: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_10
+    21300022: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_11
+    21300024: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_12
+    21300026: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_13
+    21300028: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_14
+    21300030: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_15
+    21300032: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_16
+    21300034: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_17
+    21300036: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_18
+    21300038: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_19
+    21300040: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_20
+    21300042: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_21
+    21300044: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_22
+    21300046: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_23
+    21300048: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_24
+    21300050: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_25
+    21300052: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_26
+    21300054: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_27
+    21300056: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_28
+    21300058: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_29
+    21300060: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_30
+    21300062: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_31
+    21300064: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_32
+    21300066: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_33
+    21300068: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_34
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Samsung TV
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_0
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 2303
+        width: 338
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_1
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 2300
+        width: 311
+        height: 502
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_2
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 2299
+        width: 351
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_3
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 2299
+        width: 376
+        height: 520
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_4
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 2299
+        width: 359
+        height: 520
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_5
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 2299
+        width: 344
+        height: 516
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_6
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 2299
+        width: 340
+        height: 497
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_7
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1541
+        width: 376
+        height: 614
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_8
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1541
+        width: 385
+        height: 601
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_9
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1541
+        width: 395
+        height: 613
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_10
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1541
+        width: 385
+        height: 607
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_11
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1541
+        width: 390
+        height: 607
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_12
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 1541
+        width: 384
+        height: 601
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_13
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 1541
+        width: 376
+        height: 614
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_14
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 781
+        width: 389
+        height: 611
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_15
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 781
+        width: 383
+        height: 622
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_16
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 781
+        width: 381
+        height: 622
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_17
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 781
+        width: 382
+        height: 620
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_18
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 781
+        width: 382
+        height: 622
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_19
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 781
+        width: 384
+        height: 622
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_20
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 781
+        width: 390
+        height: 611
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_21
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 62
+        width: 310
+        height: 611
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_22
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 57
+        width: 274
+        height: 611
+      alignment: 9
+      pivot: {x: 0.5, y: -0.035890877}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_23
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 105
+        width: 277
+        height: 611
+      alignment: 9
+      pivot: {x: 0.5071973, y: -0.204807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_24
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 140
+        width: 271
+        height: 611
+      alignment: 9
+      pivot: {x: 0.52206904, y: -0.26542848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_25
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 202
+        width: 233
+        height: 388
+      alignment: 9
+      pivot: {x: 0.5215263, y: -1.6287838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_27
+      rect:
+        serializedVersion: 2
+        x: 2441
+        y: 202
+        width: 234
+        height: 389
+      alignment: 9
+      pivot: {x: 0.5214343, y: -0.7220433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_30
+      rect:
+        serializedVersion: 2
+        x: 2778
+        y: 209
+        width: 239
+        height: 398
+      alignment: 9
+      pivot: {x: 0.5209848, y: -0.30244926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_31
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 56
+        width: 142
+        height: 611
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_32
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 66
+        width: 234
+        height: 611
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_33
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 66
+        width: 317
+        height: 611
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_34
+      rect:
+        serializedVersion: 2
+        x: 3049
+        y: 223
+        width: 238
+        height: 298
+      alignment: 9
+      pivot: {x: 0.509502, y: 0.76304996}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HitPlayer,-HitEnemy,-IddleEnemy,DeadPlayer,DeadEnemy_26
+      rect:
+        serializedVersion: 2
+        x: 2957
+        y: 777
+        width: 362
+        height: 632
+      alignment: 9
+      pivot: {x: 0.4861447, y: -0.08727158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

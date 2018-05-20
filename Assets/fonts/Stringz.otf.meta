@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f4028a1d4e3c1594192a8a20f3d75e83
+timeCreated: 1511496526
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Stringz
+  fontNames:
+  - Stringz
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

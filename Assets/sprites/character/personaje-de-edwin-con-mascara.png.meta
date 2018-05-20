@@ -1,0 +1,410 @@
+fileFormatVersion: 2
+guid: f2237623f89f1eb46b35d89670e9044e
+timeCreated: 1510061472
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: personaje-de-edwin-con-mascara_0
+    21300002: personaje-de-edwin-con-mascara_1
+    21300004: personaje-de-edwin-con-mascara_2
+    21300006: personaje-de-edwin-con-mascara_3
+    21300008: personaje-de-edwin-con-mascara_4
+    21300010: personaje-de-edwin-con-mascara_5
+    21300012: personaje-de-edwin-con-mascara_6
+    21300014: personaje-de-edwin-con-mascara_7
+    21300016: personaje-de-edwin-con-mascara_8
+    21300018: personaje-de-edwin-con-mascara_9
+    21300020: personaje-de-edwin-con-mascara_10
+    21300022: personaje-de-edwin-con-mascara_11
+    21300024: personaje-de-edwin-con-mascara_12
+    21300026: personaje-de-edwin-con-mascara_13
+    21300028: personaje-de-edwin-con-mascara_14
+    21300030: personaje-de-edwin-con-mascara_15
+    21300032: personaje-de-edwin-con-mascara_16
+    21300034: personaje-de-edwin-con-mascara_17
+    21300036: personaje-de-edwin-con-mascara_18
+    21300038: personaje-de-edwin-con-mascara_19
+    21300040: personaje-de-edwin-con-mascara_20
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Samsung TV
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: personaje-de-edwin-con-mascara_0
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1574
+        width: 233
+        height: 353
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personaje-de-edwin-con-mascara_1
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1574
+        width: 231
+        height: 348
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personaje-de-edwin-con-mascara_2
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1574
+        width: 232
+        height: 352
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personaje-de-edwin-con-mascara_3
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1574
+        width: 242
+        height: 358
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personaje-de-edwin-con-mascara_4
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1584
+        width: 310
+        height: 289
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personaje-de-edwin-con-mascara_5
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1197
+        width: 233
+        height: 349
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personaje-de-edwin-con-mascara_6
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1197
+        width: 232
+        height: 343
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personaje-de-edwin-con-mascara_7
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1209
+        width: 242
+        height: 333
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personaje-de-edwin-con-mascara_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1198
+        width: 241
+        height: 348
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personaje-de-edwin-con-mascara_9
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 1190
+        width: 230
+        height: 347
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personaje-de-edwin-con-mascara_10
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 1208
+        width: 245
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personaje-de-edwin-con-mascara_11
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 772
+        width: 265
+        height: 369
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personaje-de-edwin-con-mascara_12
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 789
+        width: 281
+        height: 349
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personaje-de-edwin-con-mascara_13
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 794
+        width: 254
+        height: 337
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personaje-de-edwin-con-mascara_14
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 796
+        width: 162
+        height: 203
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personaje-de-edwin-con-mascara_15
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 833
+        width: 182
+        height: 238
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personaje-de-edwin-con-mascara_16
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 169
+        width: 295
+        height: 386
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personaje-de-edwin-con-mascara_17
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 172
+        width: 470
+        height: 528
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personaje-de-edwin-con-mascara_18
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 167
+        width: 538
+        height: 600
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personaje-de-edwin-con-mascara_19
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 167
+        width: 453
+        height: 349
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personaje-de-edwin-con-mascara_20
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 167
+        width: 379
+        height: 349
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
