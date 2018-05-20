@@ -2,7 +2,7 @@
 A little platformer game for personal project made with Unity and C#.
 
 # Build
-For building project open it with Unity, or Visual Studio 2015+ and build.
+For building project open it with Unity,and build.
 
 # Classes
 
@@ -21,3 +21,9 @@ The characters were illustrated by
 
   * https://opengameart.org/forums/2d-art
   * https://www.gameart2d.com/
+  
+# Some Screenshots
+
+![alt text](https://image.ibb.co/cxDbJ8/screen1.png)
+
+![alt text](https://thumb.ibb.co/dqbkBT/screen2.png)
