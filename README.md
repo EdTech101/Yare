@@ -26,4 +26,4 @@ The characters were illustrated by
 
 ![alt text](https://image.ibb.co/cxDbJ8/screen1.png)
 
-![alt text](https://thumb.ibb.co/dqbkBT/screen2.png)
+![alt text](https://preview.ibb.co/kQqZ5o/screen2.png)
