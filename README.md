@@ -1,7 +1,9 @@
 # Yare
-A little platformer game for personal project made with Unity and C#.
+
+My first game ever, little platformer game for a personal project, made with Unity and C#, currently is not under development and only has a tutorial level and a level 1, I know it's buggy.
 
 # Build
+
 For building project open it with Unity,and build.
 
 # Classes
